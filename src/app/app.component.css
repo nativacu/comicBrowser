@@ -1,0 +1,29 @@
+.card {
+  padding: 0 20px;
+}
+
+.padding-left {
+  padding-left: 10px;
+}
+
+.padding-top {
+  padding-top: 10px;
+}
+.form {
+  justify-self: flex-end;
+}
+
+.nav {
+  height: 75px;
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: darkred;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: 20px;
+}
